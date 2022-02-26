@@ -1,0 +1,15 @@
+client - 
+npx create-react-app .
+npm run start
+npm i axios //API requests
+
+server -
+ npm init -y 
+ npm i express body-parser mysql nodemon
+Add 
+devStart: "nodemon index.js"
+npm run devStart
+
+Database -
+localhost/phpmyadmin/
+root, empty
